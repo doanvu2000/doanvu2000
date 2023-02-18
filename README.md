@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @doanvu2000
-- 👀 I’m interested in you
-- 🌱 I’m currently learning Android
-- 💞️ I’m looking to collaborate on your heart 💖
+- 👋 Hi, I’m Doan Vũ
+- 👀 Thank for view my profile
+- 🌱 I’m currently coding Android with Java/Kotlin
+- 💞️ I am alone, but i love a girl.. she is not love me 💔
 - 📫 How to reach me facebook (Doan Vũ)
 
 <!---
