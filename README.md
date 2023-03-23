@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Doan Vũ
 - 👀 Thank for view my profile
 - 🌱 I’m currently coding Android with Java/Kotlin
-- 💞️ I am alone, but i love a girl.. she is not love me 💔
+- 💞️ I am alone, but i was loved a girl.. she is not love me 💔
 - 📫 How to reach me facebook [Doan Vũ](https://facebook.com/doanvu2000)
 
 <!---
